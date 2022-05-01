@@ -1,0 +1,11 @@
+{
+    "name": "Vincenzo Network",
+    "website": "https://vincenzonetwork.com",
+    "description": "Vincenzo Network (VZN) Metaverse will provide a VR experience for the crypto community, bringing users together all in one immersive and engaging environment.",
+    "explorer": "https://bscscan.com/token/0x527810FEF739Caf5611bcEC15F4A1f5D51e9027E",
+    "type": "BEP20",
+    "symbol": "VZN",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x527810FEF739Caf5611bcEC15F4A1f5D51e9027E"
+}
